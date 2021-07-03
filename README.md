@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @DepartedDream
-- 🌱 I’m currently learning Csharp
